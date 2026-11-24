@@ -1,0 +1,13 @@
+Brief: write a Python program (stdlib only) that writes ONE original word
+describing home Wi-Fi to /output/entry.txt (respecting MAKEFUN_OUTPUT_DIR).
+
+The word must pass the gate in RULES.txt: UTF-8 text, 1 to 20 characters, not
+only whitespace — exactly one word. The judge compares words pairwise on:
+on-subject fit first, then instant humour, truth about how home Wi-Fi
+actually behaves, a fresh angle (not the words everyone reaches for), and
+working as a single word with no context needed.
+
+Pick a word that is funny at once, recognisably true (Wi-Fi vanishing
+exactly when you need it), and fresh enough to stand out from "Slow",
+"Laggy" or "Buffering" — while still being instantly understood by any
+reader and usable as a Wi-Fi network name.
